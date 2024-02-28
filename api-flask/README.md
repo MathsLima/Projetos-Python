@@ -1,10 +1,10 @@
-### API com Flask
+## API com Flask
 
 API que acessa as informações de uma base de dados e disponibiliza a quantidade de itens vendidos desta base de dados.
 
 Foi utilizado bibliotecas pandas e flask e base de dados xlsx.
 
-## Como rodar o projeto
+### Como rodar o projeto
 
 - Download da base de dados
 
